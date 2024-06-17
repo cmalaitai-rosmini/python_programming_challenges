@@ -168,3 +168,43 @@ score of a golf course. The standard scratch should then be calculated and displ
 ```
 66
 ```
+
+### 11. Formatting an Address
+A program is required to store a users address in a single string. The user should be asked three
+questions:
+>What is your house number?<br>
+What is the name of your street?<br>
+What town do you live in?<br>
+
+The program will then combine the users answers in a single string with each answer being separated
+by a comma and store the result. Finally the program will display the result on the screen.
+#### Input:
+```
+13
+Aberlove Drive
+Buckhaven
+```
+
+#### Output:
+```
+13, Aberlove Drive, Buckhaven
+```
+
+### 12. Formatting Telephone Numbers
+UK telephone numbers are often displayed in the following format:
+
+>area code, space, local code
+
+All UK telephone numbers start with a ‘0’.
+Write a program that will allow a user to enter the area code and local code of a telephone number.
+The program will then display the two codes, separated by a space.
+#### Input:
+```
+01592
+583403
+```
+
+#### Output:
+```
+01592 583403
+```
