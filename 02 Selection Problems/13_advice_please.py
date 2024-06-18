@@ -8,7 +8,7 @@ Y
 
 """
 OUTPUT:
-Always know where your towl is.
+Always know where your towel is.
 """
 
 ####### WRITE CODE BELOW #######
